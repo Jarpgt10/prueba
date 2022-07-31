@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PROYECTO-WEB.git/static/css/main.23d83ba9.css",
+    "main.js": "/PROYECTO-WEB.git/static/js/main.ae52b866.js",
+    "static/media/LogoPerfil.jpeg": "/PROYECTO-WEB.git/static/media/LogoPerfil.4a851ccb40e0d84cd140.jpeg",
+    "index.html": "/PROYECTO-WEB.git/index.html",
+    "main.23d83ba9.css.map": "/PROYECTO-WEB.git/static/css/main.23d83ba9.css.map",
+    "main.ae52b866.js.map": "/PROYECTO-WEB.git/static/js/main.ae52b866.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23d83ba9.css",
+    "static/js/main.ae52b866.js"
+  ]
+}
